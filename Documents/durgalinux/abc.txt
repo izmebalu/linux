@@ -1,0 +1,329 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 Sep26 ?        00:00:07 /usr/lib/systemd/systemd --switched-root --system --deserialize 30
+root           2       0  0 Sep26 ?        00:00:00 [kthreadd]
+root           3       2  0 Sep26 ?        00:00:00 [rcu_gp]
+root           4       2  0 Sep26 ?        00:00:00 [rcu_par_gp]
+root           6       2  0 Sep26 ?        00:00:00 [kworker/0:0H-events_highpri]
+root           8       2  0 Sep26 ?        00:00:00 [mm_percpu_wq]
+root           9       2  0 Sep26 ?        00:00:02 [ksoftirqd/0]
+root          10       2  0 Sep26 ?        00:01:29 [rcu_sched]
+root          11       2  0 Sep26 ?        00:00:00 [migration/0]
+root          13       2  0 Sep26 ?        00:00:00 [cpuhp/0]
+root          14       2  0 Sep26 ?        00:00:00 [cpuhp/1]
+root          15       2  0 Sep26 ?        00:00:00 [migration/1]
+root          16       2  0 Sep26 ?        00:00:02 [ksoftirqd/1]
+root          18       2  0 Sep26 ?        00:00:00 [kworker/1:0H-kblockd]
+root          19       2  0 Sep26 ?        00:00:00 [cpuhp/2]
+root          20       2  0 Sep26 ?        00:00:00 [migration/2]
+root          21       2  0 Sep26 ?        00:00:01 [ksoftirqd/2]
+root          23       2  0 Sep26 ?        00:00:00 [kworker/2:0H-kblockd]
+root          24       2  0 Sep26 ?        00:00:00 [cpuhp/3]
+root          25       2  0 Sep26 ?        00:00:00 [migration/3]
+root          26       2  0 Sep26 ?        00:00:00 [ksoftirqd/3]
+root          28       2  0 Sep26 ?        00:00:00 [kworker/3:0H-kblockd]
+root          29       2  0 Sep26 ?        00:00:00 [kdevtmpfs]
+root          30       2  0 Sep26 ?        00:00:00 [netns]
+root          31       2  0 Sep26 ?        00:00:00 [rcu_tasks_kthre]
+root          32       2  0 Sep26 ?        00:00:00 [rcu_tasks_rude_]
+root          33       2  0 Sep26 ?        00:00:00 [rcu_tasks_trace]
+root          34       2  0 Sep26 ?        00:00:00 [kauditd]
+root          37       2  0 Sep26 ?        00:00:00 [oom_reaper]
+root          38       2  0 Sep26 ?        00:00:00 [writeback]
+root          39       2  0 Sep26 ?        00:00:00 [kcompactd0]
+root          40       2  0 Sep26 ?        00:00:00 [ksmd]
+root          41       2  0 Sep26 ?        00:00:00 [khugepaged]
+root          58       2  0 Sep26 ?        00:00:00 [cryptd]
+root         105       2  0 Sep26 ?        00:00:00 [kintegrityd]
+root         106       2  0 Sep26 ?        00:00:00 [kblockd]
+root         107       2  0 Sep26 ?        00:00:00 [blkcg_punt_bio]
+root         108       2  0 Sep26 ?        00:00:00 [tpm_dev_wq]
+root         109       2  0 Sep26 ?        00:00:00 [ata_sff]
+root         110       2  0 Sep26 ?        00:00:00 [md]
+root         111       2  0 Sep26 ?        00:00:00 [edac-poller]
+root         112       2  0 Sep26 ?        00:00:00 [devfreq_wq]
+root         113       2  0 Sep26 ?        00:00:00 [watchdogd]
+root         114       2  0 Sep26 ?        00:00:00 [pm_wq]
+root         115       2  0 Sep26 ?        00:00:02 [kswapd0]
+root         117       2  0 Sep26 ?        00:00:00 [kthrotld]
+root         118       2  0 Sep26 ?        00:00:00 [acpi_thermal_pm]
+root         119       2  0 Sep26 ?        00:00:00 [scsi_eh_0]
+root         120       2  0 Sep26 ?        00:00:00 [scsi_tmf_0]
+root         121       2  0 Sep26 ?        00:00:00 [scsi_eh_1]
+root         122       2  0 Sep26 ?        00:00:00 [scsi_tmf_1]
+root         123       2  0 Sep26 ?        00:00:00 [scsi_eh_2]
+root         124       2  0 Sep26 ?        00:00:00 [scsi_tmf_2]
+root         125       2  0 Sep26 ?        00:00:00 [scsi_eh_3]
+root         126       2  0 Sep26 ?        00:00:00 [scsi_tmf_3]
+root         127       2  0 Sep26 ?        00:00:00 [scsi_eh_4]
+root         128       2  0 Sep26 ?        00:00:00 [scsi_tmf_4]
+root         129       2  0 Sep26 ?        00:00:00 [scsi_eh_5]
+root         130       2  0 Sep26 ?        00:00:00 [scsi_tmf_5]
+root         138       2  0 Sep26 ?        00:00:00 [dm_bufio_cache]
+root         139       2  0 Sep26 ?        00:00:00 [ipv6_addrconf]
+root         145       2  0 Sep26 ?        00:00:00 [kstrp]
+root         185       2  0 Sep26 ?        00:00:00 [zswap-shrink]
+root         193       2  0 Sep26 ?        00:00:07 [kworker/1:1H-events_highpri]
+root         194       2  0 Sep26 ?        00:00:08 [kworker/2:1H-events_highpri]
+root         382       2  0 Sep26 ?        00:00:00 [sdhci]
+root         385       2  0 Sep26 ?        00:00:07 [kworker/3:1H-kblockd]
+root         423       2  0 Sep26 ?        00:00:00 [ttm_swap]
+root         430       2  0 Sep26 ?        00:00:09 [kworker/0:1H-kblockd]
+root         471       2  0 Sep26 ?        00:00:00 [kdmflush]
+root         478       2  0 Sep26 ?        00:00:00 [kdmflush]
+root         494       2  0 Sep26 ?        00:00:00 [jbd2/dm-0-8]
+root         495       2  0 Sep26 ?        00:00:00 [ext4-rsv-conver]
+root         588       1  0 Sep26 ?        00:00:05 /usr/lib/systemd/systemd-journald
+root         602       1  0 Sep26 ?        00:00:02 /usr/lib/systemd/systemd-udevd
+root         652       2  0 Sep26 ?        00:00:00 [cfg80211]
+root         661       2  0 Sep26 ?        00:00:00 [kdmflush]
+root         662       2  0 Sep26 ?        00:00:00 [kdmflush]
+root         683       2  0 Sep26 ?        00:03:16 [irq/35-iwlwifi]
+root         720       2  0 Sep26 ?        00:00:08 [jbd2/dm-3-8]
+root         721       2  0 Sep26 ?        00:00:00 [ext4-rsv-conver]
+root         722       2  0 Sep26 ?        00:00:00 [jbd2/dm-2-8]
+root         723       2  0 Sep26 ?        00:00:00 [ext4-rsv-conver]
+root         724       2  0 Sep26 ?        00:00:00 [jbd2/sda9-8]
+root         725       2  0 Sep26 ?        00:00:00 [ext4-rsv-conver]
+root         736       2  0 Sep26 ?        00:00:00 [loop0]
+root         738       2  0 Sep26 ?        00:00:00 [loop1]
+root         740       2  0 Sep26 ?        00:00:00 [loop2]
+root         762       2  0 Sep26 ?        00:00:00 [rpciod]
+root         763       2  0 Sep26 ?        00:00:00 [xprtiod]
+root         765       1  0 Sep26 ?        00:00:00 /sbin/auditd
+root         784       1  0 Sep26 ?        00:00:00 /usr/sbin/ModemManager
+avahi        785       1  0 Sep26 ?        00:00:12 avahi-daemon: running [linux.local]
+root         786       1  0 Sep26 ?        00:00:00 /usr/libexec/bluetooth/bluetoothd
+earlyoom     787       1  0 Sep26 ?        00:00:10 /usr/bin/earlyoom -r 0 -m 4 -M 409600 --prefer ^Web Content$ --avoid ^(dnf|packagekitd|gnome-shell|gnome-session-c|gnome-session-b|lightdm|sddm|sddm-helper|gdm|gdm-wayland-ses|gdm-session-wor|gdm-x-session|Xorg|Xwayland|systemd|systemd-logind|dbus-daemon|dbus-broker|cinnamon|cinnamon-sessio|kwin_x11|kwin_wayland|plasmashell|ksmserver|plasma_session|startplasma-way|xfce4-session|mate-session|marco|lxqt-session|openbox)$
+root         789       1  0 Sep26 ?        00:00:00 /usr/sbin/mcelog --ignorenodev --daemon --foreground
+root         791       1  0 Sep26 ?        00:00:24 /sbin/rngd -f
+rtkit        794       1  0 Sep26 ?        00:00:01 /usr/libexec/rtkit-daemon
+root         804       1  0 Sep26 ?        00:00:00 /usr/sbin/smartd -n -q never
+root         805       1  0 Sep26 ?        00:00:00 /usr/sbin/sssd -i --logger=files
+root         806       1  0 Sep26 ?        00:00:00 /usr/libexec/switcheroo-control
+root         808       1  0 Sep26 ?        00:00:00 /usr/lib/systemd/systemd-homed
+root         809       1  0 Sep26 ?        00:00:00 /usr/lib/systemd/systemd-machined
+root         810       1  0 Sep26 ?        00:00:14 /usr/libexec/udisks2/udisksd
+root         811       1  0 Sep26 ?        00:00:03 /usr/libexec/upowerd
+avahi        812     785  0 Sep26 ?        00:00:00 avahi-daemon: chroot helper
+dbus         843       1  0 Sep26 ?        00:00:00 /usr/bin/dbus-broker-launch --scope system --audit
+root         845       1  0 Sep26 ?        00:00:00 /usr/sbin/abrtd -d -s
+dbus         853     843  0 Sep26 ?        00:00:08 dbus-broker --log 4 --controller 9 --machine-id 338a696e13404b23904192466ea3f7c1 --max-bytes 536870912 --max-fds 4096 --max-matches 131072 --audit
+root         854       1  0 Sep26 ?        00:00:28 /usr/sbin/NetworkManager --no-daemon
+root         860       1  0 Sep26 ?        00:00:00 /usr/sbin/alsactl -s -n 19 -c -E ALSA_CONFIG_PATH=/etc/alsa/alsactl.conf --initfile=/lib/alsa/init/00main rdaemon
+root         868       1  0 Sep26 ?        00:00:00 /usr/bin/abrt-dump-journal-core -D -T -f -e
+root         869       1  0 Sep26 ?        00:00:00 /usr/bin/abrt-dump-journal-oops -fxtD
+chrony       871       1  0 Sep26 ?        00:00:00 /usr/sbin/chronyd
+root         872     805  0 Sep26 ?        00:00:01 /usr/libexec/sssd/sssd_be --domain implicit_files --uid 0 --gid 0 --logger=files
+root         873       1  0 Sep26 ?        00:00:00 /usr/bin/abrt-dump-journal-xorg -fxtD
+polkitd      875       1  0 Sep26 ?        00:00:04 /usr/lib/polkit-1/polkitd --no-debug
+root         896       1  0 Sep26 ?        00:00:00 /usr/sbin/gssproxy -D
+root        1038       1  0 Sep26 ?        00:00:02 /usr/sbin/wpa_supplicant -c /etc/wpa_supplicant/wpa_supplicant.conf -u -s
+root        1040     805  0 Sep26 ?        00:00:02 /usr/libexec/sssd/sssd_nss --uid 0 --gid 0 --logger=files
+root        1041       1  0 Sep26 ?        00:00:00 /usr/libexec/accounts-daemon
+root        1042       1  0 Sep26 ?        00:00:00 /usr/sbin/cupsd -l
+root        1043       1  0 Sep26 ?        00:00:03 /usr/lib/systemd/systemd-logind
+root        1163       1  0 Sep26 ?        00:00:00 /usr/sbin/atd -f
+root        1177       1  0 Sep26 ?        00:00:00 /usr/sbin/crond -n
+root        1178       1  0 Sep26 ?        00:00:00 /usr/sbin/gdm
+mysql       1180       1  0 Sep26 ?        00:12:25 /usr/sbin/mysqld
+root        1209       1  0 Sep26 ?        00:00:00 /usr/lib/systemd/systemd-userdbd
+dnsmasq     1316       1  0 Sep26 ?        00:00:00 /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
+root        1317    1316  0 Sep26 ?        00:00:00 /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/default.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
+root        1486       1  0 Sep26 ?        00:00:50 /usr/libexec/packagekitd
+colord      1744       1  0 Sep26 ?        00:00:00 /usr/libexec/colord
+root        1767    1178  0 Sep26 ?        00:00:00 gdm-session-worker [pam/gdm-password]
+bharath     1779       1  0 Sep26 ?        00:00:01 /usr/lib/systemd/systemd --user
+bharath     1784    1779  0 Sep26 ?        00:00:00 (sd-pam)
+bharath     1806       1  0 Sep26 ?        00:00:01 /usr/bin/gnome-keyring-daemon --daemonize --login
+bharath     1811    1767  0 Sep26 tty2     00:00:00 /usr/libexec/gdm-wayland-session /usr/bin/gnome-session
+bharath     1813    1779  0 Sep26 ?        00:00:00 /usr/bin/dbus-broker-launch --scope user
+bharath     1814    1813  0 Sep26 ?        00:00:02 dbus-broker --log 4 --controller 11 --machine-id 338a696e13404b23904192466ea3f7c1 --max-bytes 100000000000000 --max-fds 25000000000000 --max-matches 5000000000
+bharath     1816    1811  0 Sep26 tty2     00:00:00 /usr/libexec/gnome-session-binary
+bharath     1868    1779  0 Sep26 ?        00:00:00 /usr/libexec/gvfsd
+bharath     1896    1779  0 Sep26 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+bharath     1923    1779  0 Sep26 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+bharath     1924    1779  0 Sep26 ?        00:07:42 /usr/bin/pulseaudio --daemonize=no
+bharath     1926    1779  0 Sep26 ?        00:00:01 /usr/libexec/gnome-session-binary --systemd-service --session=gnome
+root        1940       2  0 Sep26 ?        00:00:00 [krfcommd]
+bharath     1950    1779  1 Sep26 ?        00:51:28 /usr/bin/gnome-shell
+bharath     1997    1779  0 Sep26 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+bharath     2002    1997  0 Sep26 ?        00:00:00 /usr/bin/dbus-broker-launch --config-file=/usr/share/defaults/at-spi2/accessibility.conf --scope user
+bharath     2003    2002  0 Sep26 ?        00:00:00 dbus-broker --log 4 --controller 9 --machine-id 338a696e13404b23904192466ea3f7c1 --max-bytes 100000000000000 --max-fds 6400000 --max-matches 5000000000
+bharath     2008    1950  0 Sep26 ?        00:15:50 /usr/bin/Xwayland :0 -rootless -noreset -accessx -core -auth /run/user/1000/.mutter-Xwaylandauth.Q1N0Q0 -listen 4 -listen 5 -displayfd 6 -listen 7
+bharath     2036    1779  0 Sep26 ?        00:00:00 /usr/libexec/xdg-permission-store
+bharath     2040    1779  0 Sep26 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+bharath     2052    1779  0 Sep26 ?        00:00:01 /usr/libexec/gvfs-udisks2-volume-monitor
+bharath     2057    1779  0 Sep26 ?        00:00:03 /usr/libexec/gvfs-afc-volume-monitor
+bharath     2062    1779  0 Sep26 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+bharath     2071    1779  0 Sep26 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+bharath     2072    1779  0 Sep26 ?        00:00:00 /usr/libexec/evolution-source-registry
+bharath     2075    1779  0 Sep26 ?        00:00:00 /usr/libexec/goa-daemon
+bharath     2082    1779  0 Sep26 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+bharath     2090    1779  0 Sep26 ?        00:00:00 /usr/libexec/dconf-service
+bharath     2096    1779  0 Sep26 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+bharath     2110    1779  0 Sep26 ?        00:00:10 /usr/libexec/goa-identity-service
+bharath     2112    1779  0 Sep26 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+bharath     2127    1779  0 Sep26 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+bharath     2128    1779  0 Sep26 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+bharath     2138    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+bharath     2139    1779  0 Sep26 ?        00:00:01 /usr/libexec/gsd-color
+bharath     2141    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-datetime
+bharath     2147    1779  0 Sep26 ?        00:00:04 /usr/libexec/gsd-housekeeping
+bharath     2154    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-keyboard
+bharath     2161    1779  0 Sep26 ?        00:00:01 /usr/libexec/gsd-media-keys
+bharath     2162    1779  0 Sep26 ?        00:00:01 /usr/libexec/gsd-power
+bharath     2165    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-print-notifications
+bharath     2167    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-rfkill
+bharath     2168    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+bharath     2169    1779  0 Sep26 ?        00:00:08 /usr/libexec/gsd-sharing
+bharath     2171    1779  0 Sep26 ?        00:00:07 /usr/libexec/gsd-smartcard
+bharath     2177    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-sound
+bharath     2186    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-usb-protection
+bharath     2188    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-wacom
+bharath     2189    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-wwan
+bharath     2198    1926  0 Sep26 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+bharath     2212    1779  0 Sep26 ?        00:00:00 /usr/bin/abrt-applet --gapplication-service
+bharath     2221    1926  0 Sep26 ?        00:00:00 /bin/sh /home/bharath/.local/share/kite/kited --system-boot
+bharath     2225    1926  0 Sep26 ?        00:00:09 /usr/bin/gnome-software --gapplication-service
+bharath     2230    1926  0 Sep26 ?        00:00:00 /usr/libexec/tracker-miner-fs
+bharath     2241    1926  0 Sep26 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+bharath     2286    2221  0 Sep26 ?        00:05:48 /home/bharath/.local/share/kite/kite-v2.20200922.0/kited --system-boot
+bharath     2311    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-printer
+bharath     2437    1950  0 Sep26 ?        00:00:29 ibus-daemon --panel disable -r --xim
+bharath     2443    2437  0 Sep26 ?        00:00:00 /usr/libexec/ibus-dconf
+bharath     2444    2437  0 Sep26 ?        00:00:04 /usr/libexec/ibus-extension-gtk3
+bharath     2446    1779  0 Sep26 ?        00:00:01 /usr/libexec/ibus-x11 --kill-daemon
+bharath     2455    2437  0 Sep26 ?        00:00:09 /usr/libexec/ibus-engine-simple
+bharath     2462    1779  0 Sep26 ?        00:00:00 /usr/libexec/ibus-portal
+bharath     2463    1779  0 Sep26 ?        00:00:00 /usr/libexec/gsd-xsettings
+root        2486       1  0 Sep26 ?        00:00:00 /usr/sbin/abrt-dbus -t133
+bharath     2576    1779  0 Sep26 ?        00:00:01 /usr/bin/gnome-calendar --gapplication-service
+bharath     2623    1950  0 Sep26 ?        00:32:13 /opt/google/chrome/chrome
+bharath     2628    2623  0 Sep26 ?        00:00:00 cat
+bharath     2629    2623  0 Sep26 ?        00:00:00 cat
+bharath     2634    1868  0 Sep26 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.4 /org/gtk/gvfs/exec_spaw/0
+bharath     2649    1779  0 Sep26 ?        00:00:00 /usr/libexec/bluetooth/obexd
+bharath     2672    2623  0 Sep26 ?        00:00:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6,
+bharath     2673    2623  0 Sep26 ?        00:00:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6,
+bharath     2689    2672  0 Sep26 ?        00:00:00 /opt/google/chrome/nacl_helper
+bharath     2690    2673  0 Sep26 ?        00:00:00 /opt/google/chrome/nacl_helper
+bharath     2693    2673  0 Sep26 ?        00:00:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6,
+bharath     2723    2672  1 Sep26 ?        00:59:01 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=14595486428270243459,7769370446139654322,131072 --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --gpu-preferences=MAAAAAAAAAAgAAAQAAAAAAAAAAAAAAAAAABgAAAAAAAQAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA= --shared-files
+bharath     2738    2623  0 Sep26 ?        00:09:24 /opt/google/chrome/chrome --type=utility --utility-sub-type=network.mojom.NetworkService --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --service-sandbox-type=network --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --shared-files
+bharath     2885    2693  0 Sep26 ?        00:01:05 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=4 --no-v8-untrusted-code-mitigations --shared-files
+bharath     2918    2693  0 Sep26 ?        00:02:55 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=5 --no-v8-untrusted-code-mitigations --shared-files
+bharath     2930    2693  0 Sep26 ?        00:00:32 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files
+bharath     2935    2693  0 Sep26 ?        00:00:43 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=7 --no-v8-untrusted-code-mitigations --shared-files
+bharath     2947    2693  0 Sep26 ?        00:00:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=8 --no-v8-untrusted-code-mitigations --shared-files
+bharath     2963    2693  0 Sep26 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=9 --no-v8-untrusted-code-mitigations --shared-files
+bharath     2970    2693  0 Sep26 ?        00:00:20 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=10 --no-v8-untrusted-code-mitigations --shared-files
+bharath     2997    2693  0 Sep26 ?        00:08:14 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=12 --no-v8-untrusted-code-mitigations --shared-files
+bharath     3066    2693  0 Sep26 ?        00:02:21 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=22 --no-v8-untrusted-code-mitigations --shared-files
+bharath     3172    1779  0 Sep26 ?        00:01:04 /usr/libexec/gnome-terminal-server
+bharath     3291    2623  0 Sep26 ?        00:02:29 /opt/google/chrome/chrome --type=utility --utility-sub-type=audio.mojom.AudioService --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --service-sandbox-type=audio --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --shared-files
+bharath     3435    2693  0 Sep26 ?        00:01:02 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=43 --no-v8-untrusted-code-mitigations --shared-files
+bharath     3493    2693  0 Sep26 ?        00:00:10 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=55 --no-v8-untrusted-code-mitigations --shared-files
+bharath     3511    2693  0 Sep26 ?        00:00:05 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=56 --no-v8-untrusted-code-mitigations --shared-files
+bharath     3679    2693  0 Sep26 ?        00:01:04 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=69 --no-v8-untrusted-code-mitigations --shared-files
+bharath     4426    2693  0 Sep26 ?        00:00:48 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=118 --no-v8-untrusted-code-mitigations --shared-files
+bharath     4471    2693  0 Sep26 ?        00:01:28 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=121 --no-v8-untrusted-code-mitigations --shared-files
+bharath     4511    2693  0 Sep26 ?        00:01:09 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=124 --no-v8-untrusted-code-mitigations --shared-files
+bharath     4944    2693  0 Sep26 ?        00:00:02 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=140 --no-v8-untrusted-code-mitigations --shared-files
+root        5137    1767  0 Sep26 ?        00:00:00 gdm-session-worker [pam/gdm-password]
+bharath     5671    1779  0 Sep26 ?        00:00:00 /bin/bash /usr/bin/atom
+bharath     5673    5671  0 Sep26 ?        00:20:21 /usr/share/atom/atom --executed-from=/home/bharath --pid=5656
+bharath     5677    5673  0 Sep26 ?        00:00:00 /usr/share/atom/atom --type=zygote
+bharath     5679    5677  0 Sep26 ?        00:00:00 /usr/share/atom/atom --type=zygote
+bharath     5719    5673  0 Sep26 ?        00:04:59 /usr/share/atom/atom --type=gpu-process --disable-features=SpareRendererForSitePerProcess --gpu-preferences=KAAAAAAAAACAAAAAAQAAAAAAAAAAAGAAAAAAAAEAAAAIAAAAAAAAAAgAAAAAAAAA --service-request-channel-token=15735514770926469104
+bharath     5775    1950  0 Sep26 ?        00:00:00 /bin/sh /snap/pycharm-professional/215/bin/pycharm.sh
+bharath     5791    5673  0 Sep26 ?        00:20:45 /usr/share/atom/atom --type=renderer --enable-experimental-web-platform-features --disable-features=SpareRendererForSitePerProcess --service-pipe-token=12339565636126054809 --lang=en-GB --app-path=/usr/share/atom/resources/app.asar --node-integration --webview-tag --no-sandbox --no-zygote --background-color=#fff --disable-blink-features=Auxclick --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=12339565636126054809 --renderer-client-id=4 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+bharath     5950    5775  0 Sep26 ?        00:13:36 /snap/pycharm-professional/215/jbr/bin/java -classpath /snap/pycharm-professional/215/lib/bootstrap.jar:/snap/pycharm-professional/215/lib/extensions.jar:/snap/pycharm-professional/215/lib/util.jar:/snap/pycharm-professional/215/lib/jdom.jar:/snap/pycharm-professional/215/lib/log4j.jar:/snap/pycharm-professional/215/lib/trove4j.jar:/snap/pycharm-professional/215/lib/jna.jar -Xms128m -Xmx1987m -XX:ReservedCodeCacheSize=240m -XX:+UseConcMarkSweepGC -XX:SoftRefLRUPolicyMSPerMB=50 -ea -XX:CICompilerCount=2 -Dsun.io.useCanonPrefixCache=false -Djdk.http.auth.tunneling.disabledSchemes="" -XX:+HeapDumpOnOutOfMemoryError -XX:-OmitStackTraceInFastThrow -Djdk.attach.allowAttachSelf=true -Dkotlinx.coroutines.debug=off -Djdk.module.illegalAccess.silent=true -Dawt.useSystemAAFontSettings=lcd -Dsun.java2d.renderer=sun.java2d.marlin.MarlinRenderingEngine -Dsun.tools.attach.tmp.only=true -XX:ErrorFile=/home/bharath/java_error_in_PYCHARM_%p.log -XX:HeapDumpPath=/home/bharath/java_error_in_PYCHARM.hprof -Didea.vendor.name=JetBrains -Didea.paths.selector=PyCharm2020.2 -Djb.vmOptionsFile=/home/bharath/.config/JetBrains/PyCharm2020.2/pycharm64.vmoptions -Didea.platform.prefix=Python com.intellij.idea.Main
+bharath     6047    5673  0 Sep26 ?        00:00:10 /usr/share/atom/atom --type=renderer --enable-experimental-web-platform-features --disable-features=SpareRendererForSitePerProcess --service-pipe-token=262176254504061189 --lang=en-GB --app-path=/usr/share/atom/resources/app.asar --node-integration --no-sandbox --no-zygote --background-color=#fff --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=262176254504061189 --renderer-client-id=6 --no-v8-untrusted-code-mitigations --shared-files=v8_context_snapshot_data:100,v8_natives_data:101
+bharath     6147    5950  0 Sep26 ?        00:00:06 /snap/pycharm-professional/215/bin/fsnotifier64
+bharath     6328    2693  0 Sep26 ?        00:00:16 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --instant-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=142 --no-v8-untrusted-code-mitigations --shared-files
+bharath     7496    2693  0 Sep26 ?        00:00:08 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=177 --no-v8-untrusted-code-mitigations --shared-files
+bharath     7787    2693  1 Sep26 ?        00:57:29 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=202 --no-v8-untrusted-code-mitigations --shared-files
+root        8088    1767  0 Sep26 ?        00:00:00 gdm-session-worker [pam/gdm-password]
+bharath    10295    2693  0 Sep26 ?        00:00:08 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=218 --no-v8-untrusted-code-mitigations --shared-files
+bharath    10313    2693  0 Sep26 ?        00:00:54 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=219 --no-v8-untrusted-code-mitigations --shared-files
+bharath    17527    2693  0 Sep27 ?        00:00:01 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=269 --no-v8-untrusted-code-mitigations --shared-files
+bharath    17595    2693  0 Sep27 ?        00:00:17 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=270 --no-v8-untrusted-code-mitigations --shared-files
+bharath    17822    1779  0 Sep27 ?        00:00:11 file-roller /home/bharath/Downloads/django_demo_applications.rar
+bharath    17898    1779  0 Sep27 ?        00:00:00 /usr/libexec/gvfsd-metadata
+root       29951       1  0 Sep27 ?        00:02:24 /usr/bin/dockerd --host=fd:// --exec-opt native.cgroupdriver=systemd --selinux-enabled --log-driver=journald --storage-driver=overlay2 --live-restore --default-ulimit nofile=1024:1024 --init-path /usr/libexec/docker/docker-init --userland-proxy-path /usr/libexec/docker/docker-proxy
+root       29958   29951  0 Sep27 ?        00:01:57 containerd --config /var/run/docker/containerd/containerd.toml --log-level info
+bharath    30778    2693  0 Sep27 ?        00:00:30 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=309 --no-v8-untrusted-code-mitigations --shared-files
+bharath    36304    2693  0 Sep27 ?        00:00:44 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=327 --no-v8-untrusted-code-mitigations --shared-files
+bharath    36384    2693  0 Sep27 ?        00:01:03 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=342 --no-v8-untrusted-code-mitigations --shared-files
+bharath    36446    2693  0 Sep27 ?        00:00:51 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --extension-process --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=345 --no-v8-untrusted-code-mitigations --shared-files
+bharath    36478    2693  0 Sep27 ?        00:00:38 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=347 --no-v8-untrusted-code-mitigations --shared-files
+bharath    36986    2693  0 Sep27 ?        00:00:07 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=368 --no-v8-untrusted-code-mitigations --shared-files
+root       37345       1  0 Sep27 ?        00:00:02 /usr/sbin/libvirtd --timeout 120
+dnsmasq    37460       1  0 Sep27 ?        00:00:00 /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/minikube-net.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
+root       37461   37460  0 Sep27 ?        00:00:00 /usr/sbin/dnsmasq --conf-file=/var/lib/libvirt/dnsmasq/minikube-net.conf --leasefile-ro --dhcp-script=/usr/libexec/libvirt_leaseshelper
+root       37500       1  0 Sep27 ?        00:00:00 /usr/sbin/virtlogd
+bharath    37605    1806  0 Sep27 ?        00:00:00 /usr/bin/ssh-agent -D -a /run/user/1000/keyring/.ssh
+qemu       38136       1 12 Sep27 ?        05:15:00 /usr/bin/qemu-system-x86_64 -name guest=minikube,debug-threads=on -S -object secret,id=masterKey0,format=raw,file=/var/lib/libvirt/qemu/domain-2-minikube/master-key.aes -machine pc-i440fx-4.2,accel=kvm,usb=off,dump-guest-core=off -cpu host -m 3720 -overcommit mem-lock=off -smp 2,sockets=2,cores=1,threads=1 -uuid 8c9d24d0-78a6-428e-ae6d-ce639d3eff3d -display none -no-user-config -nodefaults -chardev socket,id=charmonitor,fd=38,server,nowait -mon chardev=charmonitor,id=monitor,mode=control -rtc base=utc -no-shutdown -boot menu=off,strict=on -device piix3-usb-uhci,id=usb,bus=pci.0,addr=0x1.0x2 -device lsi,id=scsi0,bus=pci.0,addr=0x4 -blockdev {"driver":"file","filename":"/home/bharath/.minikube/machines/minikube/boot2docker.iso","node-name":"libvirt-2-storage","auto-read-only":true,"discard":"unmap"} -blockdev {"node-name":"libvirt-2-format","read-only":true,"driver":"raw","file":"libvirt-2-storage"} -device scsi-cd,bus=scsi0.0,scsi-id=2,device_id=drive-scsi0-0-2,drive=libvirt-2-format,id=scsi0-0-2,bootindex=1 -blockdev {"driver":"file","filename":"/home/bharath/.minikube/machines/minikube/minikube.rawdisk","aio":"threads","node-name":"libvirt-1-storage","auto-read-only":true,"discard":"unmap"} -blockdev {"node-name":"libvirt-1-format","read-only":false,"driver":"raw","file":"libvirt-1-storage"} -device virtio-blk-pci,scsi=off,bus=pci.0,addr=0x5,drive=libvirt-1-format,id=virtio-disk0,bootindex=2 -netdev tap,fd=40,id=hostnet0,vhost=on,vhostfd=41 -device virtio-net-pci,netdev=hostnet0,id=net0,mac=00:10:37:7d:25:7e,bus=pci.0,addr=0x2 -netdev tap,fd=42,id=hostnet1,vhost=on,vhostfd=43 -device virtio-net-pci,netdev=hostnet1,id=net1,mac=bc:51:8e:8a:7b:25,bus=pci.0,addr=0x3 -chardev pty,id=charserial0 -device isa-serial,chardev=charserial0,id=serial0 -device virtio-balloon-pci,id=balloon0,bus=pci.0,addr=0x6 -object rng-random,id=objrng0,filename=/dev/random -device virtio-rng-pci,rng=objrng0,id=rng0,bus=pci.0,addr=0x7 -sandbox on,obsolete=deny,elevateprivileges=deny,spawn=deny,resourcecontrol=deny -msg timestamp=on
+root       38152       2  0 Sep27 ?        00:00:00 [kvm-nx-lpage-re]
+root       38154       2  0 Sep27 ?        00:00:01 [vhost-38136]
+root       38155       2  0 Sep27 ?        00:00:01 [vhost-38136]
+root       38159       2  0 Sep27 ?        00:00:00 [kvm-pit/38136]
+root       39128       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/fedora-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39190       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/phracek-PyCharm-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39202       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/rpmfusion-nonfree-updates-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39218       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/rpmfusion-nonfree-nvidia-driver-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39234       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/rpmfusion-nonfree-steam-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39248       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/docker-ce-stable-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39260       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/fedora-cisco-openh264-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39273       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/fedora-modular-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39303       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/updates-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39337       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/updates-modular-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39353       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/rpmfusion-free-updates-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39371       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/google-chrome-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39382       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/rpmfusion-free-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+root       39440       1  0 Sep27 ?        00:00:01 gpg-agent --homedir /var/cache/PackageKit/32/metadata/rpmfusion-nonfree-32-x86_64.tmp/gpgdir --use-standard-socket --daemon
+bharath    42938    2693  0 Sep27 ?        00:00:10 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=380 --no-v8-untrusted-code-mitigations --shared-files
+bharath    50304    2693  0 Sep27 ?        00:00:25 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=428 --no-v8-untrusted-code-mitigations --shared-files
+bharath    50336    2693  0 Sep27 ?        00:00:05 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=430 --no-v8-untrusted-code-mitigations --shared-files
+bharath    65052    2693  0 Sep27 ?        00:00:15 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=493 --no-v8-untrusted-code-mitigations --shared-files
+bharath    65078    2693  0 Sep27 ?        00:00:14 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=494 --no-v8-untrusted-code-mitigations --shared-files
+bharath    66205    2693  0 Sep27 ?        00:00:16 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=501 --no-v8-untrusted-code-mitigations --shared-files
+bharath    66249    2693  0 Sep27 ?        00:00:06 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=507 --no-v8-untrusted-code-mitigations --shared-files
+bharath    66314    2693  0 Sep27 ?        00:00:19 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=512 --no-v8-untrusted-code-mitigations --shared-files
+bharath    66403    2693  0 Sep27 ?        00:00:13 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=517 --no-v8-untrusted-code-mitigations --shared-files
+bharath    66447    2693  0 Sep27 ?        00:00:04 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=518 --no-v8-untrusted-code-mitigations --shared-files
+root       75025    1767  0 02:37 ?        00:00:00 gdm-session-worker [pam/gdm-password]
+bharath    80988    2693  3 12:34 ?        00:20:02 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=565 --no-v8-untrusted-code-mitigations --shared-files
+root       81139       2  0 12:36 ?        00:00:08 [kworker/u9:0-hci0]
+root       82094       2  0 12:55 ?        00:00:10 [kworker/u9:2-hci0]
+bharath    82441    3172  0 16:05 pts/3    00:00:02 bash
+bharath    84206    2693  0 16:26 ?        00:00:18 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=592 --no-v8-untrusted-code-mitigations --shared-files
+bharath    85254    2693  0 16:33 ?        00:00:07 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=604 --no-v8-untrusted-code-mitigations --shared-files
+bharath    85718    2693  0 16:36 ?        00:00:04 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=607 --no-v8-untrusted-code-mitigations --shared-files
+bharath    85746    2623  0 16:36 ?        00:00:00 /opt/google/chrome/chrome --type=ppapi-broker --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --shared-files
+bharath    90607    2693  0 21:10 ?        00:00:00 /opt/google/chrome/chrome --type=renderer --field-trial-handle=14595486428270243459,7769370446139654322,131072 --lang=en-GB --enable-crash-reporter=a4b7f0fc-fb5c-4629-a049-402600c8dad6, --enable-auto-reload --num-raster-threads=2 --enable-main-frame-before-activation --renderer-client-id=618 --no-v8-untrusted-code-mitigations --shared-files
+root       91850       2  0 21:32 ?        00:00:03 [kworker/0:0-events_power_efficient]
+root       92010       2  0 21:35 ?        00:00:02 [kworker/1:1-events]
+root       92318       2  0 21:40 ?        00:00:02 [kworker/2:3-events]
+root       92398       2  0 21:53 ?        00:00:00 [kworker/u8:73-iwlwifi]
+root       92400       2  0 21:53 ?        00:00:00 [kworker/u8:75-flush-253:3]
+root       92402       2  0 21:53 ?        00:00:00 [irq/33-mei_me]
+root       92404       2  0 21:53 ?        00:00:00 [irq/17-mmc0]
+root       92456       2  0 21:53 ?        00:00:03 [kworker/u9:1-hci0]
+root       92518       1  0 21:53 ?        00:00:01 /usr/libexec/sssd/sssd_kcm --uid 0 --gid 0 --logger=files
+bharath    92825    1950  0 21:56 ?        00:00:09 gnome-control-center bluetooth
+root       93172       2  0 21:59 ?        00:00:03 [kworker/3:0-events]
+root       93394       2  0 22:01 ?        00:00:00 [kworker/u8:0-phy0]
+root       93473       2  0 22:03 ?        00:00:00 [kworker/2:0-events]
+root       93642       2  0 22:05 ?        00:00:02 [kworker/u9:3-rb_allocator]
+root       93778       2  0 22:07 ?        00:00:00 [kworker/3:1-events]
+root       93994       2  0 22:10 ?        00:00:00 [kworker/1:3-events]
+root       94016       2  0 22:10 ?        00:00:00 [kworker/0:2-events]
+root       94022       2  0 22:10 ?        00:00:00 [kworker/u8:2-phy0]
+root       94309       2  0 22:15 ?        00:00:00 [kworker/2:1-events]
+root       94365       2  0 22:15 ?        00:00:00 [kworker/0:1-events]
+root       94372       2  0 22:15 ?        00:00:00 [kworker/1:0-events]
+root       94383    1209  0 22:16 ?        00:00:00 systemd-userwork
+root       94384    1209  0 22:16 ?        00:00:00 systemd-userwork
+root       94396    1209  0 22:16 ?        00:00:00 systemd-userwork
+bharath    94481   82441  0 22:17 pts/3    00:00:00 ps -ef
